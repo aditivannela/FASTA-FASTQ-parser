@@ -8,11 +8,11 @@ This is a beginner bioinformatics project written in R to parse and analyze FAST
 This project is currently in progress
 
 Completed: 
-FASTA file parser
+- FASTA file parser
 
 In Progress: 
-FASTQ file parser
+- FASTQ file parser
 
 Planned: 
-GC content calculationn 
-Sequence length summary
+- GC content calculation 
+- Sequence length summary
