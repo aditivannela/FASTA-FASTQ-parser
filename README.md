@@ -9,10 +9,10 @@ This project is currently in progress
 
 Completed: 
 - FASTA file parser
-
-In Progress: 
 - FASTQ file parser
 
-Planned: 
+In Progress: 
 - GC content calculation 
+
+Planned: 
 - Sequence length summary
